@@ -1,0 +1,15 @@
+C:\.Coding\RiderProjects\minigame1\minigame1\bin\Debug\net9.0-windows\minigame1.exe
+C:\.Coding\RiderProjects\minigame1\minigame1\bin\Debug\net9.0-windows\minigame1.deps.json
+C:\.Coding\RiderProjects\minigame1\minigame1\bin\Debug\net9.0-windows\minigame1.runtimeconfig.json
+C:\.Coding\RiderProjects\minigame1\minigame1\bin\Debug\net9.0-windows\minigame1.dll
+C:\.Coding\RiderProjects\minigame1\minigame1\bin\Debug\net9.0-windows\minigame1.pdb
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.AssemblyInfoInputs.cache
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.AssemblyInfo.cs
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.csproj.CoreCompileInputs.cache
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.sourcelink.json
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.dll
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\refint\minigame1.dll
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.pdb
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\minigame1.genruntimeconfig.cache
+C:\.Coding\RiderProjects\minigame1\minigame1\obj\Debug\net9.0-windows\ref\minigame1.dll
